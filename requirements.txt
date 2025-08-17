@@ -1,0 +1,18 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+openpyxl
+
+# Machine Learning
+xgboost
+imbalanced-learn
+
+# TensorFlow (for GPU device usage context)
+tensorflow
+
+# Jupyter Support (optional if using notebooks)
+notebook
